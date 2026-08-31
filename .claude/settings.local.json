@@ -33,7 +33,8 @@
       "WebSearch",
       "mcp__telegram-mcp__get_message_context",
       "mcp__korea-stock-mcp__get_market_type",
-      "mcp__korea-stock-mcp__get_disclosure"
+      "mcp__korea-stock-mcp__get_disclosure",
+      "mcp__dart-mcp__search_disclosure"
     ]
   }
 }
