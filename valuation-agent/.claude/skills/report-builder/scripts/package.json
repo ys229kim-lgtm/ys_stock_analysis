@@ -1,0 +1,13 @@
+{
+  "name": "valuation-report-builder",
+  "version": "1.0.0",
+  "description": "밸류에이션 분석 Word 리포트 생성기",
+  "main": "generate_docx.js",
+  "scripts": {
+    "build": "node generate_docx.js"
+  },
+  "dependencies": {
+    "docx": "^8.5.0",
+    "marked": "^12.0.0"
+  }
+}

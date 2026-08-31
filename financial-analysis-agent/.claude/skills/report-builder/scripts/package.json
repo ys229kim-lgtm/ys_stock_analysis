@@ -1,0 +1,8 @@
+{
+  "name": "report-builder",
+  "version": "1.0.0",
+  "description": "Financial analysis report Word document generator",
+  "dependencies": {
+    "docx": "^8.5.0"
+  }
+}

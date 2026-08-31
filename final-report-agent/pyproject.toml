@@ -1,0 +1,8 @@
+[project]
+name = "final-report-agent"
+version = "1.0.0"
+description = "최종 기업분석 종합 리포트 에이전트 (DART·Telegram·News·Industry·Valuation 5개 산출물 통합)"
+requires-python = ">=3.10"
+dependencies = [
+    "python-docx>=1.1",
+]

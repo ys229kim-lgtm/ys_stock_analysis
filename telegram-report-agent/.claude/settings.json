@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__dart-mcp__search_json_financial_data",
+      "mcp__dart-mcp__search_detailed_financial_data",
+      "mcp__dart-mcp__search_business_information",
+      "mcp__dart-mcp__get_current_date"
+    ]
+  }
+}

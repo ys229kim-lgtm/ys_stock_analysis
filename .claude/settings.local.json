@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem -Recurse \"C:\\\\claude\\\\stock\\\\financial-analysis-agent\" | Where-Object {!$_.PSIsContainer} | Select-Object -ExpandProperty FullName | ForEach-Object { $_.Replace\\(\"C:\\\\claude\\\\stock\\\\financial-analysis-agent\\\\\",\"\"\\) })",
+      "mcp__dart-mcp__get_current_date",
+      "mcp__dart-mcp__search_detailed_financial_data",
+      "mcp__dart-mcp__search_json_financial_data",
+      "Bash(python .claude/skills/report-builder/scripts/setup_output_dir.py --date 20260602 --company-name CJ프레시웨이)",
+      "PowerShell(Get-Command *)",
+      "PowerShell(uv pip install matplotlib numpy python-docx --python $py 2>&1)",
+      "PowerShell($py = \"C:\\\\Users\\\\�迵��\\\\AppData\\\\Roaming\\\\uv\\\\python\\\\cpython-3.13-windows-x86_64-none\\\\python.exe\")",
+      "PowerShell(Get-ChildItem \"C:\\\\claude\\\\stock\\\\telegram-report-agent\" -Recurse | Where-Object { !$_.PSIsContainer } | Select-Object FullName | ForEach-Object { $_.FullName.Replace\\(\"C:\\\\claude\\\\stock\\\\telegram-report-agent\\\\\", \"\"\\) })",
+      "mcp__firecrawl-mcp__firecrawl_search",
+      "mcp__firecrawl-mcp__firecrawl_scrape",
+      "Bash(mkdir -p \"C:/claude/stock/industry-analysis-agent/.claude/skills/industry-classifier/scripts\")",
+      "Bash(mkdir -p \"C:/claude/stock/industry-analysis-agent/.claude/skills/industry-classifier/references\")",
+      "Bash(mkdir -p \"C:/claude/stock/industry-analysis-agent/.claude/skills/telegram-collector/scripts\")",
+      "Bash(mkdir -p \"C:/claude/stock/industry-analysis-agent/.claude/skills/telegram-collector/references\")",
+      "Bash(mkdir -p \"C:/claude/stock/industry-analysis-agent/.claude/skills/web-data-collector/scripts\")",
+      "mcp__yfinance-mcp__get_stock_info",
+      "mcp__dart-mcp__search_business_information",
+      "mcp__korea-stock-mcp__get_stock_trade_info",
+      "WebFetch(domain:www.thelec.kr)",
+      "WebFetch(domain:www.yna.co.kr)",
+      "WebFetch(domain:www.bizjournals.com)",
+      "mcp__telegram-mcp__get_me",
+      "mcp__crawl4ai-mcp__scrape_many",
+      "mcp__telegram-mcp__get_media_info",
+      "mcp__korea-stock-mcp__get_stock_base_info",
+      "mcp__korea-stock-mcp__get_disclosure_list",
+      "mcp__telegram-mcp__list_accounts",
+      "mcp__korea-stock-mcp__get_corp_code",
+      "WebSearch",
+      "mcp__telegram-mcp__get_message_context",
+      "mcp__korea-stock-mcp__get_market_type",
+      "mcp__korea-stock-mcp__get_disclosure"
+    ]
+  }
+}

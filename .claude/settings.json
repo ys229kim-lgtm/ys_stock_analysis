@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "PowerShell",
+      "mcp__filesystem__create_directory",
+      "mcp__filesystem__write_file",
+      "mcp__filesystem__read_file",
+      "mcp__filesystem__list_directory",
+      "mcp__filesystem__read_multiple_files",
+      "mcp__telegram-mcp__search_global",
+      "mcp__telegram-mcp__list_chats",
+      "mcp__telegram-mcp__get_chats",
+      "mcp__telegram-mcp__search_messages",
+      "mcp__telegram-mcp__get_history",
+      "mcp__telegram-mcp__download_media",
+      "mcp__telegram-mcp__get_messages",
+      "mcp__telegram-mcp__list_messages"
+    ]
+  }
+}
