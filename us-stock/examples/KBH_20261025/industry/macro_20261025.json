@@ -1,0 +1,305 @@
+{
+  "source": "FRED (fred.stlouisfed.org CSV)",
+  "collected_for": "20261025",
+  "series": {
+    "DFF": {
+      "description": "연방기금금리 (실효, 일간)",
+      "latest": {
+        "date": "2026-10-22",
+        "value": 3.88
+      },
+      "ago_1w": {
+        "date": "2026-10-15",
+        "value": 3.88,
+        "change": 0.0
+      },
+      "ago_1m": {
+        "date": "2026-09-22",
+        "value": 3.88,
+        "change": 0.0
+      },
+      "ago_3m": {
+        "date": "2026-07-23",
+        "value": 3.63,
+        "change": 0.25
+      },
+      "ago_1y": {
+        "date": "2025-10-22",
+        "value": 4.11,
+        "change": -0.23
+      }
+    },
+    "DGS2": {
+      "description": "미 국채 2년 (%)",
+      "latest": {
+        "date": "2026-10-22",
+        "value": 4.65
+      },
+      "ago_1w": {
+        "date": "2026-10-15",
+        "value": 4.77,
+        "change": -0.12
+      },
+      "ago_1m": {
+        "date": "2026-09-22",
+        "value": 4.71,
+        "change": -0.06
+      },
+      "ago_3m": {
+        "date": "2026-07-23",
+        "value": 4.37,
+        "change": 0.28
+      },
+      "ago_1y": {
+        "date": "2025-10-22",
+        "value": 3.45,
+        "change": 1.2
+      }
+    },
+    "DGS10": {
+      "description": "미 국채 10년 (%)",
+      "latest": {
+        "date": "2026-10-22",
+        "value": 4.96
+      },
+      "ago_1w": {
+        "date": "2026-10-15",
+        "value": 5.1,
+        "change": -0.14
+      },
+      "ago_1m": {
+        "date": "2026-09-22",
+        "value": 4.96,
+        "change": 0.0
+      },
+      "ago_3m": {
+        "date": "2026-07-23",
+        "value": 4.71,
+        "change": 0.25
+      },
+      "ago_1y": {
+        "date": "2025-10-22",
+        "value": 3.97,
+        "change": 0.99
+      }
+    },
+    "T10Y2Y": {
+      "description": "10Y-2Y 스프레드 (%p)",
+      "latest": {
+        "date": "2026-10-23",
+        "value": 0.31
+      },
+      "ago_1w": {
+        "date": "2026-10-16",
+        "value": 0.35,
+        "change": -0.04
+      },
+      "ago_1m": {
+        "date": "2026-09-23",
+        "value": 0.26,
+        "change": 0.05
+      },
+      "ago_3m": {
+        "date": "2026-07-24",
+        "value": 0.36,
+        "change": -0.05
+      },
+      "ago_1y": {
+        "date": "2025-10-23",
+        "value": 0.53,
+        "change": -0.22
+      }
+    },
+    "MORTGAGE30US": {
+      "description": "30년 고정 모기지 (Freddie Mac, 주간 %)",
+      "latest": {
+        "date": "2026-10-22",
+        "value": 7.32
+      },
+      "ago_1w": {
+        "date": "2026-10-15",
+        "value": 7.4,
+        "change": -0.08
+      },
+      "ago_1m": {
+        "date": "2026-09-17",
+        "value": 6.95,
+        "change": 0.37
+      },
+      "ago_3m": {
+        "date": "2026-07-23",
+        "value": 6.58,
+        "change": 0.74
+      },
+      "ago_1y": {
+        "date": "2025-10-16",
+        "value": 6.27,
+        "change": 1.05
+      }
+    },
+    "CPIAUCSL": {
+      "description": "CPI (지수, 월간) - YoY는 별도 계산",
+      "latest": {
+        "date": "2026-09-01",
+        "value": 336.298
+      },
+      "ago_1w": {
+        "date": "2026-08-01",
+        "value": 334.131,
+        "change": 2.167
+      },
+      "ago_1m": {
+        "date": "2026-08-01",
+        "value": 334.131,
+        "change": 2.167
+      },
+      "ago_3m": {
+        "date": "2026-06-01",
+        "value": 332.568,
+        "change": 3.73
+      },
+      "ago_1y": {
+        "date": "2025-09-01",
+        "value": 324.245,
+        "change": 12.053
+      },
+      "yoy_pct": 3.72
+    },
+    "UNRATE": {
+      "description": "실업률 (%)",
+      "latest": {
+        "date": "2026-09-01",
+        "value": 4.2
+      },
+      "ago_1w": {
+        "date": "2026-08-01",
+        "value": 4.1,
+        "change": 0.1
+      },
+      "ago_1m": {
+        "date": "2026-08-01",
+        "value": 4.1,
+        "change": 0.1
+      },
+      "ago_3m": {
+        "date": "2026-06-01",
+        "value": 4.2,
+        "change": 0.0
+      },
+      "ago_1y": {
+        "date": "2025-09-01",
+        "value": 4.4,
+        "change": -0.2
+      }
+    },
+    "BAMLH0A0HYM2": {
+      "description": "하이일드 스프레드 (ICE BofA, %p)",
+      "latest": {
+        "date": "2026-10-22",
+        "value": 3.4
+      },
+      "ago_1w": {
+        "date": "2026-10-15",
+        "value": 3.23,
+        "change": 0.17
+      },
+      "ago_1m": {
+        "date": "2026-09-22",
+        "value": 2.68,
+        "change": 0.72
+      },
+      "ago_3m": {
+        "date": "2026-07-23",
+        "value": 2.77,
+        "change": 0.63
+      },
+      "ago_1y": {
+        "date": "2025-10-22",
+        "value": 3.01,
+        "change": 0.39
+      }
+    },
+    "HOUST": {
+      "description": "주택착공 (천 채, 연율)",
+      "latest": {
+        "date": "2026-09-01",
+        "value": 1221.0
+      },
+      "ago_1w": {
+        "date": "2026-08-01",
+        "value": 1288.0,
+        "change": -67.0
+      },
+      "ago_1m": {
+        "date": "2026-08-01",
+        "value": 1288.0,
+        "change": -67.0
+      },
+      "ago_3m": {
+        "date": "2026-06-01",
+        "value": 1439.0,
+        "change": -218.0
+      },
+      "ago_1y": {
+        "date": "2025-09-01",
+        "value": 1319.0,
+        "change": -98.0
+      }
+    },
+    "HSN1F": {
+      "description": "신규주택 판매 (천 채, 연율)",
+      "latest": {
+        "date": "2026-08-01",
+        "value": 684.0
+      },
+      "ago_1w": {
+        "date": "2026-07-01",
+        "value": 643.0,
+        "change": 41.0
+      },
+      "ago_1m": {
+        "date": "2026-07-01",
+        "value": 643.0,
+        "change": 41.0
+      },
+      "ago_3m": {
+        "date": "2026-05-01",
+        "value": 636.0,
+        "change": 48.0
+      },
+      "ago_1y": {
+        "date": "2025-08-01",
+        "value": 698.0,
+        "change": -14.0
+      }
+    },
+    "UMCSENT": {
+      "description": "미시간대 소비자심리지수",
+      "latest": {
+        "date": "2026-09-01",
+        "value": 48.1
+      },
+      "ago_1w": {
+        "date": "2026-08-01",
+        "value": 51.7,
+        "change": -3.6
+      },
+      "ago_1m": {
+        "date": "2026-08-01",
+        "value": 51.7,
+        "change": -3.6
+      },
+      "ago_3m": {
+        "date": "2026-06-01",
+        "value": 49.5,
+        "change": -1.4
+      },
+      "ago_1y": {
+        "date": "2025-09-01",
+        "value": 55.1,
+        "change": -7.0
+      }
+    }
+  },
+  "errors": {}
+}

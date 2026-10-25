@@ -1,0 +1,38 @@
+{
+  "company": {
+    "code": "069960",
+    "name": "현대백화점",
+    "industry": "종합소매업(백화점·면세점·가구제조)",
+    "report_type": "연결"
+  },
+  "unit_decimals": 0,
+  "unit_label": "원",
+  "annual": [
+    {"year": 2016, "revenue": 1831801786000, "operating_profit": 383166436000, "net_income": 321112180000, "total_assets": 6587262226000, "total_equity": 4310593745000, "total_debt": 2276668481000, "current_assets": 1150018962000, "current_liabilities": 1325546418000, "operating_cf": 442017130000, "investing_cf": -524367372000, "financing_cf": 108374648000, "capex": 333502957000, "interest_expense": 17988032000},
+    {"year": 2017, "revenue": 1848140316000, "operating_profit": 393668688000, "net_income": 302249519000, "total_assets": 6777281518000, "total_equity": 4617729285000, "total_debt": 2159552233000, "current_assets": 1002797450000, "current_liabilities": 1745054925000, "operating_cf": 437234382000, "investing_cf": -145748317000, "financing_cf": -275054965000, "capex": 314397645000, "interest_expense": 15922615000},
+    {"year": 2018, "revenue": 1862205782000, "operating_profit": 356659054000, "net_income": 287418964000, "total_assets": 6988562089000, "total_equity": 4829092429000, "total_debt": 2159469660000, "current_assets": 1258796495000, "current_liabilities": 1293202919000, "operating_cf": 435324558000, "investing_cf": -134130479000, "financing_cf": -146546004000, "capex": 221299631000, "interest_expense": 18594129000},
+    {"year": 2019, "revenue": 2198949660000, "operating_profit": 292244731000, "net_income": 243010565000, "total_assets": 7623094297000, "total_equity": 4979286423000, "total_debt": 2643807874000, "current_assets": 1365316449000, "current_liabilities": 1443427263000, "operating_cf": 377485321000, "investing_cf": -501958730000, "financing_cf": -62881357000, "capex": 273467969000, "interest_expense": 13575892000},
+    {"year": 2020, "revenue": 2273151865000, "operating_profit": 135863991000, "net_income": 105056700000, "total_assets": 8707032548000, "total_equity": 5032291555000, "total_debt": 3674740993000, "current_assets": 1985912656000, "current_liabilities": 2276222232000, "operating_cf": 259368187000, "investing_cf": -1084687220000, "financing_cf": 806282612000, "capex": 514813958000, "interest_expense": 33994075000},
+    {"year": 2021, "revenue": 3572433182000, "operating_profit": 264365188000, "net_income": 233388925000, "total_assets": 8969196456000, "total_equity": 5225628071000, "total_debt": 3743568385000, "current_assets": 1945333677000, "current_liabilities": 1978464235000, "operating_cf": 500164435000, "investing_cf": 42114475000, "financing_cf": -530278844000, "capex": 263249514000, "interest_expense": 40662848000},
+    {"year": 2022, "revenue": 5014123629000, "operating_profit": 320928734000, "net_income": 186026376000, "total_assets": 12069249655000, "total_equity": 6367230872000, "total_debt": 5702018783000, "current_assets": 3115547999000, "current_liabilities": 3660251198000, "operating_cf": 489391894000, "investing_cf": -1133155926000, "financing_cf": 796564362000, "capex": 258331005000, "interest_expense": 70253539000},
+    {"year": 2023, "revenue": 4207452895000, "operating_profit": 303469763000, "net_income": -39776206000, "total_assets": 11712592639000, "total_equity": 6279127722000, "total_debt": 5433464917000, "current_assets": 3117505675000, "current_liabilities": 3446694246000, "operating_cf": 757776058000, "investing_cf": -595378111000, "financing_cf": -194697689000, "capex": 356832730000, "interest_expense": 106456500000},
+    {"year": 2024, "revenue": 4187614464000, "operating_profit": 284042489000, "net_income": -753549000, "total_assets": 11217721674000, "total_equity": 6234443483000, "total_debt": 4983278191000, "current_assets": 3046190875000, "current_liabilities": 3287978218000, "operating_cf": 733909144000, "investing_cf": -192627852000, "financing_cf": -585560362000, "capex": 474662532000, "interest_expense": 99940499000},
+    {"year": 2025, "revenue": 4230320613000, "operating_profit": 377947571000, "net_income": 141528509000, "total_assets": 11249807365000, "total_equity": 6310743780000, "total_debt": 4939063585000, "current_assets": 3082239468000, "current_liabilities": 3733719359000, "operating_cf": 986166052000, "investing_cf": -692601738000, "financing_cf": -137710001000, "capex": 579293577000, "interest_expense": 98108851000}
+  ],
+  "segments": [
+    {"year": 2023, "segment": "백화점", "revenue": 2404453000000, "operating_profit": null},
+    {"year": 2023, "segment": "면세점", "revenue": 997838000000, "operating_profit": null},
+    {"year": 2023, "segment": "가구제조", "revenue": 952283000000, "operating_profit": null},
+    {"year": 2024, "segment": "백화점", "revenue": 2435376000000, "operating_profit": null},
+    {"year": 2024, "segment": "면세점", "revenue": 972131000000, "operating_profit": null},
+    {"year": 2024, "segment": "가구제조", "revenue": 920399000000, "operating_profit": null},
+    {"year": 2025, "segment": "백화점", "revenue": 2437722000000, "operating_profit": 393400000000},
+    {"year": 2025, "segment": "면세점", "revenue": 1014019000000, "operating_profit": 200000000},
+    {"year": 2025, "segment": "가구제조", "revenue": 913180000000, "operating_profit": 25500000000}
+  ],
+  "notes": [
+    "2020년 이전 매출은 백화점 특정매입 순액 기준, 2019~2022년 사이 지누스(가구제조) 편입(2022년 3월)으로 연결 매출/자산 급증",
+    "2023년 K-IFRS 매출 인식 총액→순액 조정 및 면세점 회계 영향으로 2022년 대비 매출 외형 축소",
+    "interest_expense는 현금흐름표상 '이자의 지급' 사용"
+  ]
+}

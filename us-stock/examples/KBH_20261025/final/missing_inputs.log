@@ -1,0 +1,10 @@
+=== 입력 파일 검증 (KB Home / KBH / 20261025) ===
+
+  ✓ financials: C:\claude\stock\us-stock\examples\KBH_20261025\financial\financials_20261025_KBH.json
+  ✓ val_results: C:\claude\stock\us-stock\examples\KBH_20261025\valuation\val_results_20261025_KBH.json
+  ✓ val_inputs: C:\claude\stock\us-stock\examples\KBH_20261025\valuation\val_inputs_20261025_KBH.json
+  ✓ quote: C:\claude\stock\us-stock\examples\KBH_20261025\analyst\quote_20261025_KBH.json
+  ✓ analyst: C:\claude\stock\us-stock\examples\KBH_20261025\analyst\analyst_20261025_KBH.json
+  ✓ news: C:\claude\stock\us-stock\examples\KBH_20261025\news\news_20261025_KBH.json
+  ✓ industry: C:\claude\stock\us-stock\examples\KBH_20261025\industry\industry_20261025_KBH.json
+  ✓ macro: C:\claude\stock\us-stock\examples\KBH_20261025\industry\macro_20261025.json

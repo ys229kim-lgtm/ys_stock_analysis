@@ -1,0 +1,28 @@
+{
+  "ticker": "KBH",
+  "industry": "미국 주택 건설",
+  "sector_tag": "homebuilder_cyclical",
+  "secondary_tag": null,
+  "sic": "1531",
+  "classification_rationale": "SEC SIC 1531(Operative Builders). 금리·주택 수요 사이클에 민감하고 자산가치(P/B) 중심 평가가 일반적.",
+  "cycle_position": "수요 약화·금리 고점 구간 (FY2026 EPS 저점 추정, FY2027 완만한 회복 컨센서스)",
+  "peers": [
+    {"ticker": "DHI", "pe": 14.03, "forward_pe": 13.78, "pb": 1.74, "ev_ebitda": 11.23, "roe": 12.63, "source": "StockAnalysis", "as_of": "2026-10-24"},
+    {"ticker": "LEN", "pe": 16.0, "forward_pe": 17.88, "pb": 0.94, "ev_ebitda": 12.67, "roe": 5.96, "source": "StockAnalysis", "as_of": "2026-10-24"},
+    {"ticker": "PHM", "pe": 12.95, "forward_pe": 12.95, "pb": 1.71, "ev_ebitda": 8.95, "roe": 13.86, "source": "StockAnalysis", "as_of": "2026-10-25"}
+  ],
+  "closest_peer": "LEN",
+  "macro_summary": {"fed_funds": "3.75-4.00 (2026-09-16 인상)", "ten_year": 4.96, "mortgage_30y": 7.32, "cpi_yoy": 3.72},
+  "tailwinds": ["장기금리 하락 시 주택주 반등 민감도", "Bay Area 고마진 믹스(2027까지)", "BTO 전환에 따른 재고 리스크 축소"],
+  "headwinds": ["모기지 7%대·어포더빌리티", "재판매 시장과의 가격 경쟁", "연준 추가 인상 가능성"],
+  "regulation": ["ROAD to Housing Act 등 공급 정책(영향 미확정)"],
+  "scenario_probs": {
+    "short": {"positive": 0.30, "base": 0.50, "negative": 0.20, "horizon": "1년"},
+    "mid": {"positive": 0.30, "base": 0.50, "negative": 0.20, "horizon": "1~3년"}
+  },
+  "scenario_descriptions": {
+    "short": {"positive": "모기지 7% 하회·주문 반등·마진 17%대", "base": "금리 정체, 마진 16~17%", "negative": "금리 재상승, 인센티브 확대"},
+    "mid": {"positive": "금리 하락 사이클 + 공급 정책 효과", "base": "완만한 회복", "negative": "고금리 장기화"}
+  },
+  "data_limits": ["산업 전문 에이전트 대신 본문 직접 수집(예시 데이터)", "연초 NAHB·Fannie Mae 전망은 인하 전제로 현재와 시점 불일치"]
+}

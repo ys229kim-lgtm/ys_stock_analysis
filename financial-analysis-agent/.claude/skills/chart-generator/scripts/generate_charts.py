@@ -177,10 +177,13 @@ def c06(annual, out, name):
     ys   = ylabels(annual)
     fcf  = [gv(a,"derived_metrics","fcf")       for a in annual]
     fcfm = [gv(a,"derived_metrics","fcf_margin") for a in annual]
+    # None → 0 for plotting (데이터 없는 연도는 0으로 표시, 집계 연산 오류 방지)
+    fcf_plot  = [v if v is not None else 0 for v in fcf]
+    fcfm_plot = [v if v is not None else 0 for v in fcfm]
     fig, ax1 = plt.subplots(figsize=(11, 4))
     ax2 = ax1.twinx()
-    ax1.bar(ys, fcf, color=C["fcf"], alpha=0.75, label="FCF (조원)", zorder=3)
-    ax2.plot(ys, fcfm, marker="o", color=C["revenue"], lw=2, label="FCF Margin (%)")
+    ax1.bar(ys, fcf_plot, color=C["fcf"], alpha=0.75, label="FCF (조원)", zorder=3)
+    ax2.plot(ys, fcfm_plot, marker="o", color=C["revenue"], lw=2, label="FCF Margin (%)")
     ax1.axhline(0, color="red", lw=0.8, ls="--")
     ax1.set_ylabel("조원"); ax2.set_ylabel("%")
     ax2.yaxis.set_major_formatter(mticker.FormatStrFormatter("%.1f%%"))

@@ -1,0 +1,31 @@
+{
+  "ticker": "KBH",
+  "as_of": "2026-10-23",
+  "ratings": {"strong_buy": 1, "buy": 2, "hold": 10, "sell": 0, "strong_sell": 4, "count": 17, "consensus": "Hold",
+              "source": "StockAnalysis (S&P Global), 2026-10"},
+  "targets": {"avg": 51.14, "median": 49.5, "low": 34, "high": 70,
+              "source": "StockAnalysis (avg/median/high); low=Argus 2026-10-15 하향분 반영",
+              "notes": "집계처별 평균 상이: MarketBeat $52.23, Public $51.57, StockStory $56. 집계 사이트 표기 최저 $39는 Argus 하향($38→$34) 미반영으로 판단"},
+  "estimates": {"fy1": {"label": "FY2026E", "eps": 3.23, "revenue_m": 5040},
+                "fy2": {"label": "FY2027E", "eps": 3.59, "revenue_m": 5140},
+                "source": "StockAnalysis forecast (S&P Global 집계)"},
+  "revisions": [
+    {"date": "2026-10-22", "firm": "KBW", "rating": "Hold", "pt_old": 54, "pt_new": 48, "source": "StockAnalysis"},
+    {"date": "2026-10-16", "firm": "Wells Fargo", "rating": "Sell", "pt_old": 50, "pt_new": 42, "source": "StockAnalysis"},
+    {"date": "2026-10-16", "firm": "StoneX", "rating": "Hold", "pt_old": null, "pt_new": null, "source": "StockAnalysis (신규 커버리지)"},
+    {"date": "2026-10-15", "firm": "RBC Capital", "rating": "Hold", "pt_old": 50, "pt_new": 47, "source": "StockAnalysis"},
+    {"date": "2026-10-15", "firm": "Argus Research", "rating": "Hold", "pt_old": 38, "pt_new": 34, "source": "StockAnalysis"}
+  ],
+  "bullish_points": [
+    "BTO 전환 완료(인도의 74%)로 주택 총마진 분기 15.2% → 16.5% 개선 (← 회사 3Q26 발표, HousingWire)",
+    "수주잔고 4년 만에 전년 대비 증가(금액 +3.2%) (← 회사 발표, 실적 콜)",
+    "자사주 매입·배당으로 주식 수 YoY -11.8% (← StockAnalysis)"
+  ],
+  "bearish_points": [
+    "FY 마진·ASP 가이던스 하향(FY 마진 16.0~16.2%, 기존 16.1~16.5%) (← HousingWire)",
+    "모기지 7.3%대·연준 인상으로 수요 회복 지연 (← Freddie Mac, J.P. Morgan)",
+    "ROE 5.9%, TTM FCF $28.7M으로 환원이 차입에 의존 (← StockAnalysis)"
+  ],
+  "short_interest_pct": 15.6,
+  "data_limits": ["개별 증권사 리포트 원문 미수집(집계 사이트 요약만 사용)", "Citigroup Outperform 재확인은 MarketBeat 인용 단독"]
+}

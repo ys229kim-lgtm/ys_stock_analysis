@@ -1,0 +1,782 @@
+{
+  "company": {
+    "ticker": "KBH",
+    "cik": "0000795266",
+    "name": "KB HOME",
+    "source": "SEC EDGAR companyfacts (XBRL)"
+  },
+  "unit": "USD millions (per-share in USD, shares in millions)",
+  "annual": [
+    {
+      "fy_end": "2008-11-30",
+      "income_statement": {
+        "revenue": 3033.94,
+        "gross_profit": null,
+        "operating_income": -860.64,
+        "net_income": -976.13,
+        "eps_diluted": null,
+        "da": 9.32
+      },
+      "balance_sheet": {
+        "total_assets": null,
+        "total_liabilities": null,
+        "equity": 830.61,
+        "cash": 1141.52,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": 341.32,
+        "capex": null,
+        "fcf": null,
+        "dividends_paid": 62.97,
+        "buybacks": 0.97
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": -28.37,
+        "net_margin_pct": -32.17,
+        "roe_pct": -117.52,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": null,
+        "net_income_yoy_pct": null,
+        "fcf_margin_pct": null,
+        "payout_pct": -6.45
+      }
+    },
+    {
+      "fy_end": "2009-11-30",
+      "income_statement": {
+        "revenue": 1824.85,
+        "gross_profit": null,
+        "operating_income": -236.52,
+        "net_income": -101.78,
+        "eps_diluted": null,
+        "da": 5.24
+      },
+      "balance_sheet": {
+        "total_assets": 3435.99,
+        "total_liabilities": null,
+        "equity": 707.22,
+        "cash": 1177.96,
+        "debt": null,
+        "inventory": 1501.39
+      },
+      "cash_flow": {
+        "operating_cf": 349.91,
+        "capex": null,
+        "fcf": null,
+        "dividends_paid": 19.1,
+        "buybacks": 0.62
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": -12.96,
+        "net_margin_pct": -5.58,
+        "roe_pct": -13.24,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": -39.85,
+        "net_income_yoy_pct": -89.57,
+        "fcf_margin_pct": null,
+        "payout_pct": -18.76
+      }
+    },
+    {
+      "fy_end": "2010-11-30",
+      "income_statement": {
+        "revenue": 1590.0,
+        "gross_profit": null,
+        "operating_income": -16.05,
+        "net_income": -69.37,
+        "eps_diluted": null,
+        "da": 3.29
+      },
+      "balance_sheet": {
+        "total_assets": 3109.75,
+        "total_liabilities": null,
+        "equity": 631.88,
+        "cash": 908.43,
+        "debt": null,
+        "inventory": 1696.72
+      },
+      "cash_flow": {
+        "operating_cf": -133.96,
+        "capex": null,
+        "fcf": null,
+        "dividends_paid": 19.22,
+        "buybacks": 0.35
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": -1.01,
+        "net_margin_pct": -4.36,
+        "roe_pct": -10.36,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": -12.87,
+        "net_income_yoy_pct": -31.85,
+        "fcf_margin_pct": null,
+        "payout_pct": -27.71
+      }
+    },
+    {
+      "fy_end": "2011-11-30",
+      "income_statement": {
+        "revenue": 1315.87,
+        "gross_profit": null,
+        "operating_income": -103.07,
+        "net_income": -178.77,
+        "eps_diluted": -2.32,
+        "da": 2.03
+      },
+      "balance_sheet": {
+        "total_assets": 2512.54,
+        "total_liabilities": null,
+        "equity": 442.66,
+        "cash": 418.07,
+        "debt": null,
+        "inventory": 1731.63
+      },
+      "cash_flow": {
+        "operating_cf": -347.55,
+        "capex": null,
+        "fcf": null,
+        "dividends_paid": 19.24,
+        "buybacks": 0.0
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": -7.83,
+        "net_margin_pct": -13.59,
+        "roe_pct": -33.27,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": -17.24,
+        "net_income_yoy_pct": 157.71,
+        "fcf_margin_pct": null,
+        "payout_pct": -10.76
+      }
+    },
+    {
+      "fy_end": "2012-11-30",
+      "income_statement": {
+        "revenue": 1560.12,
+        "gross_profit": null,
+        "operating_income": -20.26,
+        "net_income": -58.95,
+        "eps_diluted": -0.76,
+        "da": 1.62
+      },
+      "balance_sheet": {
+        "total_assets": 2561.7,
+        "total_liabilities": null,
+        "equity": 376.81,
+        "cash": 525.69,
+        "debt": null,
+        "inventory": 1706.57
+      },
+      "cash_flow": {
+        "operating_cf": 34.62,
+        "capex": null,
+        "fcf": null,
+        "dividends_paid": 10.6,
+        "buybacks": 1.8
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": -1.3,
+        "net_margin_pct": -3.78,
+        "roe_pct": -14.39,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": 18.56,
+        "net_income_yoy_pct": -67.02,
+        "fcf_margin_pct": null,
+        "payout_pct": -17.98
+      }
+    },
+    {
+      "fy_end": "2013-11-30",
+      "income_statement": {
+        "revenue": 2097.13,
+        "gross_profit": null,
+        "operating_income": 92.08,
+        "net_income": 39.96,
+        "eps_diluted": 0.46,
+        "da": 1.86
+      },
+      "balance_sheet": {
+        "total_assets": 3193.64,
+        "total_liabilities": null,
+        "equity": 536.09,
+        "cash": 532.52,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": -443.49,
+        "capex": null,
+        "fcf": null,
+        "dividends_paid": 8.37,
+        "buybacks": 8.49
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": 4.39,
+        "net_margin_pct": 1.91,
+        "roe_pct": 8.76,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": 34.42,
+        "net_income_yoy_pct": -167.79,
+        "fcf_margin_pct": null,
+        "payout_pct": 20.93
+      }
+    },
+    {
+      "fy_end": "2014-11-30",
+      "income_statement": {
+        "revenue": 2400.95,
+        "gross_profit": null,
+        "operating_income": 115.97,
+        "net_income": 918.35,
+        "eps_diluted": 9.25,
+        "da": 2.42
+      },
+      "balance_sheet": {
+        "total_assets": 4757.55,
+        "total_liabilities": null,
+        "equity": 1595.91,
+        "cash": 358.77,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": -630.69,
+        "capex": null,
+        "fcf": null,
+        "dividends_paid": 8.98,
+        "buybacks": 0.55
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": 4.83,
+        "net_margin_pct": 38.25,
+        "roe_pct": 86.15,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": 14.49,
+        "net_income_yoy_pct": 2198.0,
+        "fcf_margin_pct": null,
+        "payout_pct": 0.98
+      }
+    },
+    {
+      "fy_end": "2015-11-30",
+      "income_statement": {
+        "revenue": 3032.03,
+        "gross_profit": null,
+        "operating_income": 138.62,
+        "net_income": 84.64,
+        "eps_diluted": 0.85,
+        "da": 3.41
+      },
+      "balance_sheet": {
+        "total_assets": 5086.9,
+        "total_liabilities": null,
+        "equity": 1690.83,
+        "cash": 560.34,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": 181.19,
+        "capex": null,
+        "fcf": null,
+        "dividends_paid": 9.19,
+        "buybacks": 0.57
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": 4.57,
+        "net_margin_pct": 2.79,
+        "roe_pct": 5.15,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": 26.28,
+        "net_income_yoy_pct": -90.78,
+        "fcf_margin_pct": null,
+        "payout_pct": 10.85
+      }
+    },
+    {
+      "fy_end": "2016-11-30",
+      "income_statement": {
+        "revenue": 3594.65,
+        "gross_profit": null,
+        "operating_income": 152.4,
+        "net_income": 105.61,
+        "eps_diluted": 1.12,
+        "da": 3.64
+      },
+      "balance_sheet": {
+        "total_assets": 5131.62,
+        "total_liabilities": null,
+        "equity": 1723.14,
+        "cash": 593.0,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": 188.66,
+        "capex": null,
+        "fcf": null,
+        "dividends_paid": 8.59,
+        "buybacks": 85.94
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": 4.24,
+        "net_margin_pct": 2.94,
+        "roe_pct": 6.19,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": 18.56,
+        "net_income_yoy_pct": 24.78,
+        "fcf_margin_pct": null,
+        "payout_pct": 8.13
+      }
+    },
+    {
+      "fy_end": "2017-11-30",
+      "income_statement": {
+        "revenue": 4368.53,
+        "gross_profit": null,
+        "operating_income": 283.4,
+        "net_income": 180.59,
+        "eps_diluted": 1.85,
+        "da": 2.79
+      },
+      "balance_sheet": {
+        "total_assets": 5041.52,
+        "total_liabilities": null,
+        "equity": 1926.31,
+        "cash": 720.86,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": 513.22,
+        "capex": null,
+        "fcf": null,
+        "dividends_paid": 8.64,
+        "buybacks": 0.0
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": 6.49,
+        "net_margin_pct": 4.13,
+        "roe_pct": 9.9,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": 21.53,
+        "net_income_yoy_pct": 70.99,
+        "fcf_margin_pct": null,
+        "payout_pct": 4.79
+      }
+    },
+    {
+      "fy_end": "2018-11-30",
+      "income_statement": {
+        "revenue": 4547.0,
+        "gross_profit": null,
+        "operating_income": 345.72,
+        "net_income": 170.37,
+        "eps_diluted": 1.71,
+        "da": 2.53
+      },
+      "balance_sheet": {
+        "total_assets": 5073.57,
+        "total_liabilities": null,
+        "equity": 2087.5,
+        "cash": 575.12,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": 221.51,
+        "capex": 7.37,
+        "fcf": 214.14,
+        "dividends_paid": 8.89,
+        "buybacks": 35.04
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": 7.6,
+        "net_margin_pct": 3.75,
+        "roe_pct": 8.49,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": 4.09,
+        "net_income_yoy_pct": -5.66,
+        "fcf_margin_pct": 4.71,
+        "payout_pct": 5.22
+      }
+    },
+    {
+      "fy_end": "2019-11-30",
+      "income_statement": {
+        "revenue": 4552.75,
+        "gross_profit": null,
+        "operating_income": null,
+        "net_income": 268.77,
+        "eps_diluted": 2.85,
+        "da": 27.16
+      },
+      "balance_sheet": {
+        "total_assets": 5015.48,
+        "total_liabilities": null,
+        "equity": 2383.12,
+        "cash": 454.86,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": 251.04,
+        "capex": 40.46,
+        "fcf": 210.58,
+        "dividends_paid": 20.37,
+        "buybacks": 0.0
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": null,
+        "net_margin_pct": 5.9,
+        "roe_pct": 12.02,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": 0.13,
+        "net_income_yoy_pct": 57.76,
+        "fcf_margin_pct": 4.63,
+        "payout_pct": 7.58
+      }
+    },
+    {
+      "fy_end": "2020-11-30",
+      "income_statement": {
+        "revenue": 4183.17,
+        "gross_profit": null,
+        "operating_income": null,
+        "net_income": 296.24,
+        "eps_diluted": 3.13,
+        "da": 28.4
+      },
+      "balance_sheet": {
+        "total_assets": 5356.44,
+        "total_liabilities": null,
+        "equity": 2665.77,
+        "cash": 682.53,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": 310.68,
+        "capex": 28.84,
+        "fcf": 281.84,
+        "dividends_paid": 38.06,
+        "buybacks": 0.0
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": null,
+        "net_margin_pct": 7.08,
+        "roe_pct": 11.73,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": -8.12,
+        "net_income_yoy_pct": 10.22,
+        "fcf_margin_pct": 6.74,
+        "payout_pct": 12.85
+      }
+    },
+    {
+      "fy_end": "2021-11-30",
+      "income_statement": {
+        "revenue": 5724.93,
+        "gross_profit": null,
+        "operating_income": null,
+        "net_income": 564.75,
+        "eps_diluted": 6.01,
+        "da": 28.64
+      },
+      "balance_sheet": {
+        "total_assets": 5835.92,
+        "total_liabilities": null,
+        "equity": 3019.47,
+        "cash": 292.14,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": -37.3,
+        "capex": 39.4,
+        "fcf": -76.69,
+        "dividends_paid": 54.05,
+        "buybacks": 188.18
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": null,
+        "net_margin_pct": 9.86,
+        "roe_pct": 19.87,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": 36.86,
+        "net_income_yoy_pct": 90.64,
+        "fcf_margin_pct": -1.34,
+        "payout_pct": 9.57
+      }
+    },
+    {
+      "fy_end": "2022-11-30",
+      "income_statement": {
+        "revenue": 6903.78,
+        "gross_profit": null,
+        "operating_income": null,
+        "net_income": 816.67,
+        "eps_diluted": 9.09,
+        "da": 32.32
+      },
+      "balance_sheet": {
+        "total_assets": 6651.93,
+        "total_liabilities": null,
+        "equity": 3660.8,
+        "cash": 330.2,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": 183.42,
+        "capex": 45.23,
+        "fcf": 138.18,
+        "dividends_paid": 52.45,
+        "buybacks": 150.0
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": null,
+        "net_margin_pct": 11.83,
+        "roe_pct": 24.45,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": 20.59,
+        "net_income_yoy_pct": 44.61,
+        "fcf_margin_pct": 2.0,
+        "payout_pct": 6.42
+      }
+    },
+    {
+      "fy_end": "2023-11-30",
+      "income_statement": {
+        "revenue": 6410.63,
+        "gross_profit": null,
+        "operating_income": null,
+        "net_income": 590.18,
+        "eps_diluted": 7.03,
+        "da": 36.41
+      },
+      "balance_sheet": {
+        "total_assets": 6648.36,
+        "total_liabilities": null,
+        "equity": 3810.14,
+        "cash": 727.34,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": 1082.7,
+        "capex": 35.47,
+        "fcf": 1047.23,
+        "dividends_paid": 56.83,
+        "buybacks": 411.44
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": null,
+        "net_margin_pct": 9.21,
+        "roe_pct": 15.8,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": -7.14,
+        "net_income_yoy_pct": -27.73,
+        "fcf_margin_pct": 16.34,
+        "payout_pct": 9.63
+      }
+    },
+    {
+      "fy_end": "2024-11-30",
+      "income_statement": {
+        "revenue": 6930.09,
+        "gross_profit": null,
+        "operating_income": null,
+        "net_income": 655.02,
+        "eps_diluted": 8.45,
+        "da": 37.27
+      },
+      "balance_sheet": {
+        "total_assets": 6936.17,
+        "total_liabilities": null,
+        "equity": 4060.62,
+        "cash": 599.19,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": 362.72,
+        "capex": 39.31,
+        "fcf": 323.41,
+        "dividends_paid": 71.55,
+        "buybacks": 353.7
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": null,
+        "net_margin_pct": 9.45,
+        "roe_pct": 16.64,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": 8.1,
+        "net_income_yoy_pct": 10.99,
+        "fcf_margin_pct": 4.67,
+        "payout_pct": 10.92
+      }
+    },
+    {
+      "fy_end": "2025-11-30",
+      "income_statement": {
+        "revenue": 6236.21,
+        "gross_profit": null,
+        "operating_income": null,
+        "net_income": 428.79,
+        "eps_diluted": 6.15,
+        "da": 37.3
+      },
+      "balance_sheet": {
+        "total_assets": 6680.25,
+        "total_liabilities": null,
+        "equity": 3900.86,
+        "cash": 230.44,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": 335.68,
+        "capex": 48.4,
+        "fcf": 287.28,
+        "dividends_paid": 68.57,
+        "buybacks": 541.3
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": null,
+        "net_margin_pct": 6.88,
+        "roe_pct": 10.77,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": -10.01,
+        "net_income_yoy_pct": -34.54,
+        "fcf_margin_pct": 4.61,
+        "payout_pct": 15.99
+      }
+    }
+  ],
+  "ttm": {
+    "revenue": 5180.93,
+    "net_income": 227.57,
+    "da": 40.96,
+    "sbc": 32.41,
+    "operating_cf": 74.96,
+    "capex": 46.3,
+    "dividends_paid": 63.51,
+    "buybacks": 282.97,
+    "period_end": "2026-08-31",
+    "eps_diluted": 3.55
+  },
+  "quarterly": {
+    "revenue": {
+      "2024-11-30": 1999.9,
+      "2025-02-28": 1391.78,
+      "2025-05-31": 1529.59,
+      "2025-08-31": 1620.47,
+      "2025-11-30": 1694.38,
+      "2026-02-28": 1077.01,
+      "2026-05-31": 1112.43,
+      "2026-08-31": 1297.1
+    },
+    "net_income": {
+      "2024-11-30": 190.6,
+      "2025-02-28": 109.56,
+      "2025-05-31": 107.88,
+      "2025-08-31": 109.83,
+      "2025-11-30": 101.52,
+      "2026-02-28": 33.42,
+      "2026-05-31": 27.35,
+      "2026-08-31": 65.28
+    }
+  },
+  "latest_balance_sheet": {
+    "total_assets": 6969.15,
+    "total_assets_asof": "2026-08-31",
+    "equity": 3801.51,
+    "equity_asof": "2026-08-31",
+    "cash": 160.06,
+    "cash_asof": "2026-08-31"
+  },
+  "shares_outstanding_m": 60.763,
+  "shares_asof": "2026-08-31",
+  "book_value_per_share": 62.56,
+  "growth_rates": {
+    "revenue_cagr_3y_pct": -3.33,
+    "revenue_cagr_5y_pct": 8.31
+  },
+  "concepts_used": {
+    "revenue": "Revenues+RevenueFromContractWithCustomerExcludingAssessedTax",
+    "gross_profit": "GrossProfit",
+    "operating_income": "OperatingIncomeLoss",
+    "net_income": "NetIncomeLoss",
+    "interest_expense": "InterestExpense",
+    "da": "DepreciationAndAmortization",
+    "sbc": "ShareBasedCompensation",
+    "operating_cf": "NetCashProvidedByUsedInOperatingActivities",
+    "capex": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "dividends_paid": "PaymentsOfDividendsCommonStock",
+    "buybacks": "PaymentsForRepurchaseOfCommonStock",
+    "total_assets": "Assets",
+    "equity": "StockholdersEquity",
+    "cash": "CashAndCashEquivalentsAtCarryingValue+CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+    "inventory": "InventoryRealEstate",
+    "eps_diluted": "EarningsPerShareDiluted",
+    "eps_basic": "EarningsPerShareBasic",
+    "dps": "CommonStockDividendsPerShareDeclared+CommonStockDividendsPerShareCashPaid"
+  },
+  "missing_concepts": [
+    "cost_of_revenue",
+    "current_assets",
+    "current_liabilities",
+    "debt",
+    "gross_profit",
+    "pretax_income",
+    "total_liabilities"
+  ],
+  "stale_concepts": [
+    "interest_expense",
+    "inventory",
+    "operating_income"
+  ],
+  "notes": [
+    "XBRL 개념 선택은 우선순위 목록 기준. 회사별 사용자 정의 태그(예: 홈빌딩 영업이익)는 누락될 수 있으므로 missing_concepts/stale_concepts(최근 기간 데이터 없음)는 실적 발표자료/웹으로 보완할 것.",
+    "TTM = 최근 FY + 최근 YTD - 전년 동기 YTD"
+  ]
+}

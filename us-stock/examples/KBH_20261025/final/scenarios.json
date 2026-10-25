@@ -1,0 +1,80 @@
+{
+  "currency": "USD",
+  "current_price": 47.05,
+  "fair_value_range": {
+    "low": 40.06,
+    "high": 57.95
+  },
+  "price_position": "적정 범위",
+  "probability_anchor": {
+    "source": "default (industry agent 없음)",
+    "positive": 0.3,
+    "base": 0.5,
+    "negative": 0.2
+  },
+  "adjustments": [
+    {
+      "signal": "애널리스트 10월 목표가 4건 연속 하향, Hold 우세",
+      "target": "positive",
+      "delta_pp": -3
+    },
+    {
+      "signal": "금리 인상·모기지 7.3%·4Q 가이던스 압박 등 진행 중 리스크 3건 이상",
+      "target": "positive",
+      "delta_pp": -3
+    },
+    {
+      "signal": "수주잔고 4년 만에 YoY 증가, 자사주 매입 지속 (추가 판단)",
+      "target": "positive",
+      "delta_pp": 2
+    },
+    {
+      "signal": "Positive 순감분 배분",
+      "target": "negative",
+      "delta_pp": 3
+    },
+    {
+      "signal": "Positive 순감분 배분",
+      "target": "base",
+      "delta_pp": 1
+    }
+  ],
+  "net_adjustment_pp": {
+    "positive": -4.0,
+    "base": 1.0,
+    "negative": 3.0
+  },
+  "negative_floor_basis": "Argus 최저 목표가 $34 (P/B 약 0.54x)",
+  "scenarios": {
+    "positive": {
+      "probability": 0.26,
+      "price_low": 57.95,
+      "price_high": 70.0,
+      "vs_current_pct": [
+        23.2,
+        48.8
+      ]
+    },
+    "base": {
+      "probability": 0.51,
+      "price_low": 40.06,
+      "price_high": 57.95,
+      "vs_current_pct": [
+        -14.9,
+        23.2
+      ]
+    },
+    "negative": {
+      "probability": 0.23,
+      "price_low": 34.0,
+      "price_high": 40.06,
+      "vs_current_pct": [
+        -27.7,
+        -14.9
+      ]
+    }
+  },
+  "probability_weighted_reference": 50.14,
+  "probability_weighted_vs_current_pct": 6.6,
+  "flags": []
+}

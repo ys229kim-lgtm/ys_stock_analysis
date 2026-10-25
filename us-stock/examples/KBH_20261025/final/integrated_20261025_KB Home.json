@@ -1,0 +1,590 @@
+{
+  "meta": {
+    "company": "KB Home",
+    "ticker": "KBH",
+    "analysis_date": "20261025",
+    "currency": "USD",
+    "generated_at": "2026-10-25 23:21:44",
+    "agent_version": "us-final-report-agent v1.0"
+  },
+  "summary": {
+    "company": "KB Home",
+    "ticker": "KBH",
+    "analysis_date": "20261025",
+    "current_price": "$47.05",
+    "weighted_avg_fair_value": "$49.44",
+    "fair_value_range": {
+      "low": "$40.06",
+      "high": "$57.95"
+    },
+    "upside_pct": 5.08,
+    "position": "적정 범위",
+    "data_coverage": {
+      "financial": true,
+      "valuation": true,
+      "analyst": true,
+      "news": true,
+      "industry": true
+    },
+    "available_agent_count": 5
+  },
+  "financial_summary": {
+    "company_name": "KB HOME",
+    "latest_fy": {
+      "fy_end": "2025-11-30",
+      "income_statement": {
+        "revenue": 6236.21,
+        "gross_profit": null,
+        "operating_income": null,
+        "net_income": 428.79,
+        "eps_diluted": 6.15,
+        "da": 37.3
+      },
+      "balance_sheet": {
+        "total_assets": 6680.25,
+        "total_liabilities": null,
+        "equity": 3900.86,
+        "cash": 230.44,
+        "debt": null,
+        "inventory": null
+      },
+      "cash_flow": {
+        "operating_cf": 335.68,
+        "capex": 48.4,
+        "fcf": 287.28,
+        "dividends_paid": 68.57,
+        "buybacks": 541.3
+      },
+      "derived": {
+        "gross_margin_pct": null,
+        "operating_margin_pct": null,
+        "net_margin_pct": 6.88,
+        "roe_pct": 10.77,
+        "debt_to_equity": null,
+        "net_debt": null,
+        "revenue_yoy_pct": -10.01,
+        "net_income_yoy_pct": -34.54,
+        "fcf_margin_pct": 4.61,
+        "payout_pct": 15.99
+      }
+    },
+    "ttm": {
+      "revenue": 5180.93,
+      "net_income": 227.57,
+      "da": 40.96,
+      "sbc": 32.41,
+      "operating_cf": 74.96,
+      "capex": 46.3,
+      "dividends_paid": 63.51,
+      "buybacks": 282.97,
+      "period_end": "2026-08-31",
+      "eps_diluted": 3.55
+    },
+    "latest_balance_sheet": {
+      "total_assets": 6969.15,
+      "total_assets_asof": "2026-08-31",
+      "equity": 3801.51,
+      "equity_asof": "2026-08-31",
+      "cash": 160.06,
+      "cash_asof": "2026-08-31"
+    },
+    "growth_rates": {
+      "revenue_cagr_3y_pct": -3.33,
+      "revenue_cagr_5y_pct": 8.31
+    },
+    "shares_outstanding_m": 60.763,
+    "book_value_per_share": 62.56,
+    "missing_concepts": [
+      "cost_of_revenue",
+      "current_assets",
+      "current_liabilities",
+      "debt",
+      "gross_profit",
+      "pretax_income",
+      "total_liabilities"
+    ],
+    "stale_concepts": [
+      "interest_expense",
+      "inventory",
+      "operating_income"
+    ],
+    "supplements": null
+  },
+  "analyst_summary": {
+    "ticker": "KBH",
+    "as_of": "2026-10-23",
+    "ratings": {
+      "strong_buy": 1,
+      "buy": 2,
+      "hold": 10,
+      "sell": 0,
+      "strong_sell": 4,
+      "count": 17,
+      "consensus": "Hold",
+      "source": "StockAnalysis (S&P Global), 2026-10"
+    },
+    "targets": {
+      "avg": 51.14,
+      "median": 49.5,
+      "low": 34,
+      "high": 70,
+      "source": "StockAnalysis (avg/median/high); low=Argus 2026-10-15 하향분 반영",
+      "notes": "집계처별 평균 상이: MarketBeat $52.23, Public $51.57, StockStory $56. 집계 사이트 표기 최저 $39는 Argus 하향($38→$34) 미반영으로 판단"
+    },
+    "estimates": {
+      "fy1": {
+        "label": "FY2026E",
+        "eps": 3.23,
+        "revenue_m": 5040
+      },
+      "fy2": {
+        "label": "FY2027E",
+        "eps": 3.59,
+        "revenue_m": 5140
+      },
+      "source": "StockAnalysis forecast (S&P Global 집계)"
+    },
+    "revisions": [
+      {
+        "date": "2026-10-22",
+        "firm": "KBW",
+        "rating": "Hold",
+        "pt_old": 54,
+        "pt_new": 48,
+        "source": "StockAnalysis"
+      },
+      {
+        "date": "2026-10-16",
+        "firm": "Wells Fargo",
+        "rating": "Sell",
+        "pt_old": 50,
+        "pt_new": 42,
+        "source": "StockAnalysis"
+      },
+      {
+        "date": "2026-10-16",
+        "firm": "StoneX",
+        "rating": "Hold",
+        "pt_old": null,
+        "pt_new": null,
+        "source": "StockAnalysis (신규 커버리지)"
+      },
+      {
+        "date": "2026-10-15",
+        "firm": "RBC Capital",
+        "rating": "Hold",
+        "pt_old": 50,
+        "pt_new": 47,
+        "source": "StockAnalysis"
+      },
+      {
+        "date": "2026-10-15",
+        "firm": "Argus Research",
+        "rating": "Hold",
+        "pt_old": 38,
+        "pt_new": 34,
+        "source": "StockAnalysis"
+      }
+    ],
+    "bullish_points": [
+      "BTO 전환 완료(인도의 74%)로 주택 총마진 분기 15.2% → 16.5% 개선 (← 회사 3Q26 발표, HousingWire)",
+      "수주잔고 4년 만에 전년 대비 증가(금액 +3.2%) (← 회사 발표, 실적 콜)",
+      "자사주 매입·배당으로 주식 수 YoY -11.8% (← StockAnalysis)"
+    ],
+    "bearish_points": [
+      "FY 마진·ASP 가이던스 하향(FY 마진 16.0~16.2%, 기존 16.1~16.5%) (← HousingWire)",
+      "모기지 7.3%대·연준 인상으로 수요 회복 지연 (← Freddie Mac, J.P. Morgan)",
+      "ROE 5.9%, TTM FCF $28.7M으로 환원이 차입에 의존 (← StockAnalysis)"
+    ],
+    "short_interest_pct": 15.6,
+    "data_limits": [
+      "개별 증권사 리포트 원문 미수집(집계 사이트 요약만 사용)",
+      "Citigroup Outperform 재확인은 MarketBeat 인용 단독"
+    ]
+  },
+  "news_summary": {
+    "ticker": "KBH",
+    "period": {
+      "from": "2025-10-23",
+      "to": "2026-10-23"
+    },
+    "events": [
+      {
+        "date": "2026-09-22",
+        "title": "3Q26 실적: EPS $1.05(컨센서스 $0.90 상회), 마진 16.5%, FY 마진·ASP 가이던스 하향",
+        "category": "neutral",
+        "sub_category": "가이던스",
+        "magnitude": "high",
+        "ongoing": false,
+        "summary": "매출 $1.30B(-20%), 순이익 $65.3M, BTO 74%, 수주잔고 4년 만에 YoY 증가. FY 마진 가이던스 16.0~16.2%로 하향.",
+        "source": "KB Home IR / HousingWire / StockStory",
+        "url": "https://www.investor.kbhome.com/company-news/news-releases/",
+        "confidence": "high"
+      },
+      {
+        "date": "2026-09-16",
+        "title": "연준 정책금리 인상(3.75~4.00%), 3년 만의 첫 인상",
+        "category": "negative",
+        "sub_category": "거시",
+        "magnitude": "high",
+        "ongoing": true,
+        "summary": "모기지 금리 7%대(10/22 7.32%, 전년 6.19%)로 수요 회복 지연.",
+        "source": "J.P. Morgan, Mortgage Reports, Freddie Mac",
+        "url": "",
+        "confidence": "high"
+      },
+      {
+        "date": "2026-10-22",
+        "title": "장기금리 하락에 KBH +6.2% 반등, 10Y 5% 하회",
+        "category": "positive",
+        "sub_category": "거시",
+        "magnitude": "medium",
+        "ongoing": false,
+        "summary": "10년물 하루 10~14bp 하락, 건설주 반등. 금리 민감도가 큼을 시사.",
+        "source": "MarketBeat, Yahoo Finance, Perplexity",
+        "url": "",
+        "confidence": "medium"
+      },
+      {
+        "date": "2026-10-15",
+        "title": "애널리스트 목표가 연속 하향 (RBC, Argus, Wells Fargo, KBW)",
+        "category": "negative",
+        "sub_category": "시장",
+        "magnitude": "medium",
+        "ongoing": true,
+        "summary": "10/15~10/22 4건 모두 하향.",
+        "source": "StockAnalysis",
+        "url": "",
+        "confidence": "high"
+      },
+      {
+        "date": "2026-10-14",
+        "title": "8-K Item 5.02: 경영진 PSU 부여 (EPS 40%·ROIC 35%·상대 매출성장 25%)",
+        "category": "neutral",
+        "sub_category": "경영진",
+        "magnitude": "low",
+        "ongoing": false,
+        "summary": "성과기간 2026-12-01~2029-11-30. 투자 판단에 중대하지 않음.",
+        "source": "SEC 8-K 원문",
+        "url": "https://www.sec.gov/Archives/edgar/data/795266/000079526626000076/kbh-20261008.htm",
+        "confidence": "high"
+      }
+    ],
+    "ongoing_risks": [
+      {
+        "title": "연준 인상·모기지 7%대로 수요 회복 지연",
+        "magnitude": "high",
+        "scope": "중기"
+      },
+      {
+        "title": "재판매 시장 가격 압력 및 인센티브 증가 가능성",
+        "magnitude": "medium",
+        "scope": "단기"
+      },
+      {
+        "title": "부채/자본 상승(35.7%)과 FCF 부진",
+        "magnitude": "medium",
+        "scope": "중기"
+      },
+      {
+        "title": "4Q 인도 가이던스(약 3,000~3,500채) 달성 압박",
+        "magnitude": "medium",
+        "scope": "단기"
+      }
+    ],
+    "future_catalysts": [
+      {
+        "date": "2026-11-12",
+        "title": "배당락일"
+      },
+      {
+        "date": "2026-12",
+        "title": "FOMC (추정)"
+      },
+      {
+        "date": "2026-12",
+        "title": "4Q·FY2026 실적 및 FY2027 가이던스 (전년 12/18 공시 기준 추정)"
+      }
+    ],
+    "sentiment_ratio": 0.2
+  },
+  "industry_summary": {
+    "ticker": "KBH",
+    "industry": "미국 주택 건설",
+    "sector_tag": "homebuilder_cyclical",
+    "secondary_tag": null,
+    "sic": "1531",
+    "classification_rationale": "SEC SIC 1531(Operative Builders). 금리·주택 수요 사이클에 민감하고 자산가치(P/B) 중심 평가가 일반적.",
+    "cycle_position": "수요 약화·금리 고점 구간 (FY2026 EPS 저점 추정, FY2027 완만한 회복 컨센서스)",
+    "peers": [
+      {
+        "ticker": "DHI",
+        "pe": 14.03,
+        "forward_pe": 13.78,
+        "pb": 1.74,
+        "ev_ebitda": 11.23,
+        "roe": 12.63,
+        "source": "StockAnalysis",
+        "as_of": "2026-10-24"
+      },
+      {
+        "ticker": "LEN",
+        "pe": 16.0,
+        "forward_pe": 17.88,
+        "pb": 0.94,
+        "ev_ebitda": 12.67,
+        "roe": 5.96,
+        "source": "StockAnalysis",
+        "as_of": "2026-10-24"
+      },
+      {
+        "ticker": "PHM",
+        "pe": 12.95,
+        "forward_pe": 12.95,
+        "pb": 1.71,
+        "ev_ebitda": 8.95,
+        "roe": 13.86,
+        "source": "StockAnalysis",
+        "as_of": "2026-10-25"
+      }
+    ],
+    "closest_peer": "LEN",
+    "macro_summary": {
+      "fed_funds": "3.75-4.00 (2026-09-16 인상)",
+      "ten_year": 4.96,
+      "mortgage_30y": 7.32,
+      "cpi_yoy": 3.72
+    },
+    "tailwinds": [
+      "장기금리 하락 시 주택주 반등 민감도",
+      "Bay Area 고마진 믹스(2027까지)",
+      "BTO 전환에 따른 재고 리스크 축소"
+    ],
+    "headwinds": [
+      "모기지 7%대·어포더빌리티",
+      "재판매 시장과의 가격 경쟁",
+      "연준 추가 인상 가능성"
+    ],
+    "regulation": [
+      "ROAD to Housing Act 등 공급 정책(영향 미확정)"
+    ],
+    "scenario_probs": {
+      "short": {
+        "positive": 0.3,
+        "base": 0.5,
+        "negative": 0.2,
+        "horizon": "1년"
+      },
+      "mid": {
+        "positive": 0.3,
+        "base": 0.5,
+        "negative": 0.2,
+        "horizon": "1~3년"
+      }
+    },
+    "scenario_descriptions": {
+      "short": {
+        "positive": "모기지 7% 하회·주문 반등·마진 17%대",
+        "base": "금리 정체, 마진 16~17%",
+        "negative": "금리 재상승, 인센티브 확대"
+      },
+      "mid": {
+        "positive": "금리 하락 사이클 + 공급 정책 효과",
+        "base": "완만한 회복",
+        "negative": "고금리 장기화"
+      }
+    },
+    "data_limits": [
+      "산업 전문 에이전트 대신 본문 직접 수집(예시 데이터)",
+      "연초 NAHB·Fannie Mae 전망은 인하 전제로 현재와 시점 불일치"
+    ]
+  },
+  "macro_summary": {
+    "DFF": {
+      "date": "2026-10-22",
+      "value": 3.88
+    },
+    "DGS2": {
+      "date": "2026-10-22",
+      "value": 4.65
+    },
+    "DGS10": {
+      "date": "2026-10-22",
+      "value": 4.96
+    },
+    "T10Y2Y": {
+      "date": "2026-10-23",
+      "value": 0.31
+    },
+    "MORTGAGE30US": {
+      "date": "2026-10-22",
+      "value": 7.32
+    },
+    "CPIAUCSL": {
+      "date": "2026-09-01",
+      "value": 336.298
+    },
+    "UNRATE": {
+      "date": "2026-09-01",
+      "value": 4.2
+    },
+    "BAMLH0A0HYM2": {
+      "date": "2026-10-22",
+      "value": 3.4
+    },
+    "HOUST": {
+      "date": "2026-09-01",
+      "value": 1221.0
+    },
+    "HSN1F": {
+      "date": "2026-08-01",
+      "value": 684.0
+    },
+    "UMCSENT": {
+      "date": "2026-09-01",
+      "value": 48.1
+    }
+  },
+  "valuation_summary": {
+    "sector_tag": "homebuilder_cyclical",
+    "weights_effective": {
+      "pe": 0.4,
+      "pb": 0.4,
+      "pe_norm": 0.2
+    },
+    "methods": {
+      "pe": {
+        "low": 39.49,
+        "mid": 49.54,
+        "high": 57.44,
+        "upside_pct": 5.3
+      },
+      "pb": {
+        "low": 40.66,
+        "mid": 50.05,
+        "high": 59.43,
+        "upside_pct": 6.37
+      },
+      "pe_norm": {
+        "low": 40.0,
+        "mid": 48.0,
+        "high": 56.0,
+        "upside_pct": 2.02
+      },
+      "ddm": {
+        "low": 13.33,
+        "mid": 14.29,
+        "high": 15.38,
+        "upside_pct": -69.64
+      },
+      "rim": {
+        "low": 55.08,
+        "mid": 58.1,
+        "high": 61.33,
+        "upside_pct": 23.48
+      }
+    },
+    "dropped": {},
+    "weighted_avg": {
+      "low": 40.06,
+      "mid": 49.44,
+      "high": 57.95,
+      "upside_pct": 5.08
+    },
+    "fair_value_range": {
+      "low": 40.06,
+      "high": 57.95
+    },
+    "position": "적정 범위",
+    "dispersion_ratio": 1.04,
+    "flags": [],
+    "consensus_comparison": {
+      "avg_target": 51.14,
+      "median_target": 49.5,
+      "low_target": 34,
+      "high_target": 70,
+      "analyst_count": 17,
+      "model_mid_vs_avg_target_pct": -3.32
+    }
+  },
+  "scenarios": {
+    "currency": "USD",
+    "current_price": 47.05,
+    "fair_value_range": {
+      "low": 40.06,
+      "high": 57.95
+    },
+    "price_position": "적정 범위",
+    "probability_anchor": {
+      "source": "default (industry agent 없음)",
+      "positive": 0.3,
+      "base": 0.5,
+      "negative": 0.2
+    },
+    "adjustments": [
+      {
+        "signal": "애널리스트 10월 목표가 4건 연속 하향, Hold 우세",
+        "target": "positive",
+        "delta_pp": -3
+      },
+      {
+        "signal": "금리 인상·모기지 7.3%·4Q 가이던스 압박 등 진행 중 리스크 3건 이상",
+        "target": "positive",
+        "delta_pp": -3
+      },
+      {
+        "signal": "수주잔고 4년 만에 YoY 증가, 자사주 매입 지속 (추가 판단)",
+        "target": "positive",
+        "delta_pp": 2
+      },
+      {
+        "signal": "Positive 순감분 배분",
+        "target": "negative",
+        "delta_pp": 3
+      },
+      {
+        "signal": "Positive 순감분 배분",
+        "target": "base",
+        "delta_pp": 1
+      }
+    ],
+    "net_adjustment_pp": {
+      "positive": -4.0,
+      "base": 1.0,
+      "negative": 3.0
+    },
+    "negative_floor_basis": "Argus 최저 목표가 $34 (P/B 약 0.54x)",
+    "scenarios": {
+      "positive": {
+        "probability": 0.26,
+        "price_low": 57.95,
+        "price_high": 70.0,
+        "vs_current_pct": [
+          23.2,
+          48.8
+        ]
+      },
+      "base": {
+        "probability": 0.51,
+        "price_low": 40.06,
+        "price_high": 57.95,
+        "vs_current_pct": [
+          -14.9,
+          23.2
+        ]
+      },
+      "negative": {
+        "probability": 0.23,
+        "price_low": 34.0,
+        "price_high": 40.06,
+        "vs_current_pct": [
+          -27.7,
+          -14.9
+        ]
+      }
+    },
+    "probability_weighted_reference": 50.14,
+    "probability_weighted_vs_current_pct": 6.6,
+    "flags": []
+  }
+}

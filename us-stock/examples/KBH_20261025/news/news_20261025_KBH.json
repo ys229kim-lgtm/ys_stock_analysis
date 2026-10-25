@@ -1,0 +1,37 @@
+{
+  "ticker": "KBH",
+  "period": {"from": "2025-10-23", "to": "2026-10-23"},
+  "events": [
+    {"date": "2026-09-22", "title": "3Q26 실적: EPS $1.05(컨센서스 $0.90 상회), 마진 16.5%, FY 마진·ASP 가이던스 하향",
+     "category": "neutral", "sub_category": "가이던스", "magnitude": "high", "ongoing": false,
+     "summary": "매출 $1.30B(-20%), 순이익 $65.3M, BTO 74%, 수주잔고 4년 만에 YoY 증가. FY 마진 가이던스 16.0~16.2%로 하향.",
+     "source": "KB Home IR / HousingWire / StockStory", "url": "https://www.investor.kbhome.com/company-news/news-releases/", "confidence": "high"},
+    {"date": "2026-09-16", "title": "연준 정책금리 인상(3.75~4.00%), 3년 만의 첫 인상",
+     "category": "negative", "sub_category": "거시", "magnitude": "high", "ongoing": true,
+     "summary": "모기지 금리 7%대(10/22 7.32%, 전년 6.19%)로 수요 회복 지연.",
+     "source": "J.P. Morgan, Mortgage Reports, Freddie Mac", "url": "", "confidence": "high"},
+    {"date": "2026-10-22", "title": "장기금리 하락에 KBH +6.2% 반등, 10Y 5% 하회",
+     "category": "positive", "sub_category": "거시", "magnitude": "medium", "ongoing": false,
+     "summary": "10년물 하루 10~14bp 하락, 건설주 반등. 금리 민감도가 큼을 시사.",
+     "source": "MarketBeat, Yahoo Finance, Perplexity", "url": "", "confidence": "medium"},
+    {"date": "2026-10-15", "title": "애널리스트 목표가 연속 하향 (RBC, Argus, Wells Fargo, KBW)",
+     "category": "negative", "sub_category": "시장", "magnitude": "medium", "ongoing": true,
+     "summary": "10/15~10/22 4건 모두 하향.", "source": "StockAnalysis", "url": "", "confidence": "high"},
+    {"date": "2026-10-14", "title": "8-K Item 5.02: 경영진 PSU 부여 (EPS 40%·ROIC 35%·상대 매출성장 25%)",
+     "category": "neutral", "sub_category": "경영진", "magnitude": "low", "ongoing": false,
+     "summary": "성과기간 2026-12-01~2029-11-30. 투자 판단에 중대하지 않음.",
+     "source": "SEC 8-K 원문", "url": "https://www.sec.gov/Archives/edgar/data/795266/000079526626000076/kbh-20261008.htm", "confidence": "high"}
+  ],
+  "ongoing_risks": [
+    {"title": "연준 인상·모기지 7%대로 수요 회복 지연", "magnitude": "high", "scope": "중기"},
+    {"title": "재판매 시장 가격 압력 및 인센티브 증가 가능성", "magnitude": "medium", "scope": "단기"},
+    {"title": "부채/자본 상승(35.7%)과 FCF 부진", "magnitude": "medium", "scope": "중기"},
+    {"title": "4Q 인도 가이던스(약 3,000~3,500채) 달성 압박", "magnitude": "medium", "scope": "단기"}
+  ],
+  "future_catalysts": [
+    {"date": "2026-11-12", "title": "배당락일"},
+    {"date": "2026-12", "title": "FOMC (추정)"},
+    {"date": "2026-12", "title": "4Q·FY2026 실적 및 FY2027 가이던스 (전년 12/18 공시 기준 추정)"}
+  ],
+  "sentiment_ratio": 0.2
+}

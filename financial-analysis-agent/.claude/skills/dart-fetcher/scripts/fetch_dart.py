@@ -36,7 +36,12 @@ def normalize_dart_response(raw: dict, corp_code: str, company_name: str) -> dic
             "industry": company_info.get("industry", raw.get("industry", "")),
             "report_type": company_info.get("report_type", "연결"),
         },
-        "unit_decimals": raw.get("unit_decimals") or raw.get("decimals"),
+        # `or`를 쓰면 decimals=0(원 단위)이 falsy라서 None으로 흘러가
+        # calculate_metrics.py가 억원 기본값으로 오판단한다 — 명시적 None 검사 필요.
+        "unit_decimals": (
+            raw["unit_decimals"] if raw.get("unit_decimals") is not None
+            else raw.get("decimals")
+        ),
         "unit_label": raw.get("unit_label") or raw.get("scale_unit", "억원"),
         "annual": annual_data,
         "segments": raw.get("segments", []),
@@ -119,7 +124,7 @@ def main():
     start = coverage["years"][0] if coverage["years"] else "?"
     end = coverage["years"][-1] if coverage["years"] else "?"
     print(f"[OK] DART 데이터 저장: {output_path}")
-    print(f"     수집 기간: {start}–{end} ({coverage['year_count']}개년)")
+    print(f"     수집 기간: {start}-{end} ({coverage['year_count']}개년)")
     print(str(output_path))
 
 

@@ -1,0 +1,122 @@
+{
+  "ticker": "KBH",
+  "company": "KB HOME",
+  "cik": "0000795266",
+  "sic": "1531",
+  "sic_description": "Operative Builders",
+  "fiscal_year_end": "1130",
+  "state_of_incorporation": "DE",
+  "collection_period": {
+    "start": "2026-04-28",
+    "end": "2026-10-25"
+  },
+  "counts": {
+    "total": 8,
+    "high": 6,
+    "medium": 1,
+    "low": 1
+  },
+  "form4_count": 4,
+  "events": [
+    {
+      "date": "2026-10-14",
+      "form": "8-K",
+      "accession": "0000795266-26-000076",
+      "url": "https://www.sec.gov/Archives/edgar/data/795266/000079526626000076/kbh-20261008.htm",
+      "report_date": "2026-10-08",
+      "items": [
+        {
+          "code": "5.02",
+          "meaning": "임원·이사 변동/보상"
+        }
+      ],
+      "importance": "high"
+    },
+    {
+      "date": "2026-10-08",
+      "form": "10-Q",
+      "accession": "0000795266-26-000071",
+      "url": "https://www.sec.gov/Archives/edgar/data/795266/000079526626000071/kbh-20260831.htm",
+      "report_date": "2026-08-31",
+      "importance": "high"
+    },
+    {
+      "date": "2026-09-22",
+      "form": "8-K",
+      "accession": "0000795266-26-000068",
+      "url": "https://www.sec.gov/Archives/edgar/data/795266/000079526626000068/kbh-20260922.htm",
+      "report_date": "2026-09-22",
+      "items": [
+        {
+          "code": "2.02",
+          "meaning": "실적 발표"
+        },
+        {
+          "code": "9.01",
+          "meaning": "재무제표·첨부"
+        }
+      ],
+      "importance": "high"
+    },
+    {
+      "date": "2026-07-14",
+      "form": "S-3ASR",
+      "accession": "0001193125-26-303406",
+      "url": "https://www.sec.gov/Archives/edgar/data/795266/000119312526303406/d112491ds3asr.htm",
+      "report_date": "",
+      "importance": "medium"
+    },
+    {
+      "date": "2026-07-09",
+      "form": "10-Q",
+      "accession": "0000795266-26-000063",
+      "url": "https://www.sec.gov/Archives/edgar/data/795266/000079526626000063/kbh-20260531.htm",
+      "report_date": "2026-05-31",
+      "importance": "high"
+    },
+    {
+      "date": "2026-06-23",
+      "form": "8-K",
+      "accession": "0000795266-26-000060",
+      "url": "https://www.sec.gov/Archives/edgar/data/795266/000079526626000060/kbh-20260623.htm",
+      "report_date": "2026-06-23",
+      "items": [
+        {
+          "code": "2.02",
+          "meaning": "실적 발표"
+        },
+        {
+          "code": "9.01",
+          "meaning": "재무제표·첨부"
+        }
+      ],
+      "importance": "high"
+    },
+    {
+      "date": "2026-06-05",
+      "form": "11-K",
+      "accession": "0000795266-26-000056",
+      "url": "https://www.sec.gov/Archives/edgar/data/795266/000079526626000056/kbh-20260605.htm",
+      "report_date": "2025-12-31",
+      "importance": "low"
+    },
+    {
+      "date": "2026-05-01",
+      "form": "8-K",
+      "accession": "0000795266-26-000051",
+      "url": "https://www.sec.gov/Archives/edgar/data/795266/000079526626000051/kbh-20260429.htm",
+      "report_date": "2026-04-29",
+      "items": [
+        {
+          "code": "5.02",
+          "meaning": "임원·이사 변동/보상"
+        }
+      ],
+      "importance": "high"
+    }
+  ],
+  "notes": [
+    "importance 는 Item/서식 기반 1차 분류. 에이전트가 high 항목 원문을 읽고 valuation_impact(positive|neutral|negative)와 impact_note를 직접 추가할 것.",
+    "Form 4 매수/매도 방향은 미분류."
+  ]
+}
